@@ -1,0 +1,3 @@
+VMName,Action,DisableNetwork,RemoveNetworkDevices,PowerOn,RunScriptsinLiveMount,PreFailoverScript,PostFailoverScriptDelay,PostFailoverScript,NextVMFailoverDelay,PreFailoverUserPrompt,PostFailoverUserPrompt
+FileServer1,LiveMount,TRUE,FALSE,TRUE,FALSE,,0,,30,Are you bloody sure?,"Check VM booted, continue?"
+OracleServer1,LiveMount,TRUE,FALSE,TRUE,FALSE,,0,,30,,
